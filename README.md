@@ -1,7 +1,7 @@
 # Image_colorization
 
 ```
-Original Image                                              Output of Regression Network
+Original Image                                                          Output of Regression Network
 ```
 
 <div>
