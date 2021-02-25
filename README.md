@@ -42,7 +42,7 @@ Original Image                                                          Output o
 |
 ├── Image_colorizer.py                # Python file with trained model used to generate output  
 |
-├── model.py                          #Python file contatining model architecture.
+├── model.py                          # Python file contatining model architecture.
 |
 └── README.md
 
