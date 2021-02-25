@@ -5,8 +5,8 @@ Original Image                                              Output of Regression
 ```
 
 <div align='center'>
-    <img src='test/t3.jpg' height="256" width='456'>
-    <img src='test/colorized_reg_t3.jpg' height="256" width='456'>
+    <img src='test/t3.jpg' height="256" width='50%'>
+    <img src='test/colorized_reg_t3.jpg' height="256" width='50%'>
 </div>
 
 ```
@@ -14,7 +14,7 @@ Original Image                                              Output of Regression
 ```
 
 <div align='center'>
-    <img src='test/colorized_unet_t3.jpg' height="512" width='912'>
+    <img src='test/colorized_unet_t3.jpg' height="512" width='100%'>
 </div>
 
 
